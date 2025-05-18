@@ -9,15 +9,15 @@
 	</head>
 <body>
 	<div style="text-align:center">
-		<a href="/spring01-step/">Home </a>
-		<a href="/spring01-step/multi_table.do"> 구구단 </a>
-		<a href="/spring01-step/point.do"> 성적계산 </a>
-		<a href="/spring01-step/move.do"> redirect </a>
-		<a href="/spring01-step/mav.do"> ModelAndView </a>
-		<a href="/spring01-step/ajax.do"> 비동기식호출예제 </a>
-		<a href="/spring01-step/login.do"> 비동기식호출예제2 </a>
-		<a href="/spring01-step/ajax_table.do"> 구구단(ajax) </a>
-		<a href="/spring01-step/member/list.do"> 회원관리 </a>
+		<a href="/java-spring01-step">Home </a>
+		<a href="/java-spring01-step/multi_table.do"> 구구단 </a>
+		<a href="/java-spring01-step/point.do"> 성적계산 </a>
+		<a href="/java-spring01-step/move.do"> redirect </a>
+		<a href="/java-spring01-step/mav.do"> ModelAndView </a>
+		<a href="/java-spring01-step/ajax.do"> 비동기식호출예제 </a>
+		<a href="/java-spring01-step/login.do"> 비동기식호출예제2 </a>
+		<a href="/java-spring01-step/ajax_table.do"> 구구단(ajax) </a>
+		<a href="/java-spring01-step/member/list.do"> 회원관리 </a>
 	
 	</div>
 
